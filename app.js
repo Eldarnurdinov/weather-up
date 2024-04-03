@@ -11,7 +11,7 @@ const p3 = p[2]
 
 const translations = {
     "Rain": "Дождь",
-    "Clouds": "Облака",
+    "Clouds": "Облачно",
     "Snow": "Снег",
     "Smoke": "Туман",
     "Clear": "Ясно",
